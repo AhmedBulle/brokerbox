@@ -7,7 +7,7 @@ const Navbar = () => {
         <>
         <div className={style.navbar}>
             <div className={style.wrapper}>
-        <Image src="/logo.png" alt="error" width={353} height={79} />
+        <Image src="/logo.png" alt="error" width={250} height={79} />
         </div>
         </div>
         </>

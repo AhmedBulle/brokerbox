@@ -44,12 +44,11 @@
     flex-direction: column;
     gap: 16px;
     @media screen and (max-width: 1300px) {
-        margin-top: 20px;
+        margin-top: 0px;
         
     }
     @media screen and (max-width:350px) {
         gap: 12px;
-        margin-bottom: 5px;
 }
 }
 .bottom {
